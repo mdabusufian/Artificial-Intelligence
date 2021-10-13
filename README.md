@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-for university course 
+University course 
